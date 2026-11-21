@@ -1,0 +1,8 @@
+{
+  "name": "BoostKE",
+  "description": "Instant social media boost checkout powered by M-Pesa STK Push.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

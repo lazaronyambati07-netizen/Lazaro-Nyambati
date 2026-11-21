@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BoostKE</string>
+    <string name="hero_title">BoostKE — Instant M-Pesa</string>
+    <string name="hero_subtitle">Chagua huduma, weka namba yako ya M-Pesa, kisha weka PIN kwenye simu yako.</string>
+    <string name="step_choose_package">1. Chagua Package</string>
+    <string name="step_target_link">2. Weka Link ya Video / Account</string>
+    <string name="hint_target_link">https://tiktok.com/@username/video/...</string>
+    <string name="step_mpesa_phone">3. Namba Yako ya M-Pesa (Itakayopokea PIN Prompt)</string>
+    <string name="hint_mpesa_phone">0712345678</string>
+    <string name="phone_supporting_text">Safaricom au Airtel Money (mfano 0712345678 au 254712345678)</string>
+    <string name="cta_pay_format">Lipa KES %1$d (Tuma PIN Prompt)</string>
+    <string name="cta_sending_prompt">Tunatuma PIN Prompt...</string>
+    <string name="status_waiting_format">Tunatuma M-Pesa prompt kwenye simu %1$s... Angalia simu yako uweke PIN!</string>
+    <string name="status_success_default">Prompt imetumwa! Weka M-Pesa PIN yako kukamilisha malipo na boost itaanza mara moja.</string>
+    <string name="status_error_prefix">Tatizo: %1$s</string>
+    <string name="status_error_server_hint">Hakikisha backend server yako (server.js) inawaka au badilisha Server URL.</string>
+    <string name="nav_boost">Boost</string>
+    <string name="nav_orders">Oda Zangu</string>
+    <string name="orders_title">Historia ya Oda</string>
+    <string name="orders_empty_title">Hakuna oda bado</string>
+    <string name="orders_empty_subtitle">Ukisha tuma M-Pesa STK Push, risiti na historia ya oda zako zitaonekana hapa.</string>
+    <string name="orders_cta_start">Chagua Package</string>
+    <string name="server_settings_title">Backend Server Settings</string>
+    <string name="server_settings_subtitle">Weka anwani ya server yako inayopokea /api/stkpush requests.</string>
+    <string name="server_url_label">Backend Base URL</string>
+    <string name="server_url_save">Hifadhi URL</string>
+    <string name="paste_link">Bandika</string>
+    <string name="clear_text">Futa</string>
+    <string name="resend_prompt">Tuma Tena</string>
+</resources>
